@@ -1,5 +1,5 @@
 import unittest
-from model import News
+from app.models import News
 
 
 
